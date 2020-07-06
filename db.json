@@ -34,7 +34,7 @@
       "productName": "Gorgeous Frozen Chair",
       "price": 47,
       "productDescription": "Harum modi sunt. Voluptatem ut molestiae consequatur. Ea omnis architecto laboriosam accusantium reiciendis corporis exercitationem ad dolor. Fugit autem placeat voluptas sint aut aliquam sed. Totam fuga nesciunt rerum voluptatibus. Voluptatibus voluptates vel ut et temporibus perferendis laboriosam accusamus.",
-      "favorite": 0
+      "favorite": "1"
     },
     {
       "id": "41fb4f07-22fd-4ef6-b23c-1ac022b57d11",
@@ -52,6 +52,132 @@
       "productName": "Fantastic Wooden Sausages",
       "price": 1,
       "productDescription": "Ea qui et. Minus minima omnis. Nisi temporibus quam vel doloribus tempore ut possimus repellendus minus. Aut et repudiandae et dolorum ut consectetur. Qui laborum tenetur corporis odit architecto. Rerum neque odit.",
+      "favorite": 0
+    },
+    {
+      "id": "1db18081-575b-47b2-b0d8-395314a6b327",
+      "image_url": "https://dummyimage.com/400x400/c49fd9/000&text=Gorgeous Rubber Salad",
+      "stock": 3,
+      "productName": "Gorgeous Rubber Salad",
+      "price": 62,
+      "productDescription": "Officiis facilis dignissimos dolores numquam. Quidem soluta et. Quis est eveniet rem aut aut. Perferendis reprehenderit repellat sunt magni consequuntur quas. Enim aut minus voluptate explicabo neque voluptatem quas.",
+      "favorite": "1"
+    },
+    {
+      "id": "7eca1ea3-0bf6-4b00-bb6b-e08ba834dd4e",
+      "image_url": "https://dummyimage.com/400x400/6b90de/000&text=Rustic Soft Table",
+      "stock": 14,
+      "productName": "Rustic Soft Table",
+      "price": 49,
+      "productDescription": "Exercitationem iure quia officiis sed hic illo iusto vero maxime. Fuga iste quia nemo. Officiis nihil veritatis doloremque in praesentium sit autem fugit.",
+      "favorite": 0
+    },
+    {
+      "id": "57483e83-1378-42f3-8d40-e4d75e4ff767",
+      "image_url": "https://dummyimage.com/400x400/93182/000&text=Fantastic Fresh Car",
+      "stock": 40,
+      "productName": "Fantastic Fresh Car",
+      "price": 23,
+      "productDescription": "Rem et id blanditiis deleniti et. Consectetur illo veniam. Et dolores voluptatem ullam et error quis aut. Corrupti aut et aut id. Unde iusto et qui doloremque vel commodi alias.",
+      "favorite": 0
+    },
+    {
+      "id": "11a7aee9-d712-4395-9c35-bde70c9f0171",
+      "image_url": "https://dummyimage.com/400x400/5be5c9/000&text=Awesome Plastic Gloves",
+      "stock": 41,
+      "productName": "Awesome Plastic Gloves",
+      "price": 71,
+      "productDescription": "Cupiditate ab unde maxime. Ab cumque quasi vel excepturi voluptate recusandae et nemo. Fuga laboriosam tenetur.",
+      "favorite": 0
+    },
+    {
+      "id": "7ac6d979-0771-4b8c-809d-eb8aa36be7f4",
+      "image_url": "https://dummyimage.com/400x400/61cc38/000&text=Awesome Plastic Towels",
+      "stock": 0,
+      "productName": "Awesome Plastic Towels",
+      "price": 93,
+      "productDescription": "Earum voluptates animi excepturi sed dolor nemo. Ab sed magnam modi saepe et est optio dolorum. Eum pariatur dolor voluptatibus. Ut magnam omnis. Culpa nisi provident cumque libero.",
+      "favorite": 0
+    },
+    {
+      "id": "ea46848e-f2fe-4d8f-a0b2-c30c0f1d2417",
+      "image_url": "https://dummyimage.com/400x400/f02ef0/000&text=Tasty Wooden Car",
+      "stock": 8,
+      "productName": "Tasty Wooden Car",
+      "price": 90,
+      "productDescription": "Voluptatibus quia est eveniet consequatur est veritatis. Esse ex sapiente. Consequatur numquam quam assumenda vel. Itaque non consectetur sed doloribus perspiciatis. Corporis officiis deserunt.",
+      "favorite": 0
+    },
+    {
+      "id": "031806fb-89b6-4790-a889-5c0fa94d380a",
+      "image_url": "https://dummyimage.com/400x400/513c52/000&text=Handcrafted Granite Pants",
+      "stock": 23,
+      "productName": "Handcrafted Granite Pants",
+      "price": 4,
+      "productDescription": "Impedit nihil dolorem. Illum reprehenderit sit. Doloribus quo reprehenderit beatae est vero. Expedita ut praesentium. Incidunt quisquam a dolore a animi. Voluptas molestiae aut fuga.",
+      "favorite": 0
+    },
+    {
+      "id": "9dbcefef-804d-483d-8e1c-28941866a85c",
+      "image_url": "https://dummyimage.com/400x400/8100ab/000&text=Practical Granite Shoes",
+      "stock": 26,
+      "productName": "Practical Granite Shoes",
+      "price": 45,
+      "productDescription": "Quasi omnis soluta veniam a in explicabo. Ex doloremque et est aut distinctio aliquam rerum recusandae. Earum in dignissimos odit quia ut. Qui laudantium amet.",
+      "favorite": 0
+    },
+    {
+      "id": "1b1caaba-60e2-432b-97f8-d7c8f8f94bbc",
+      "image_url": "https://dummyimage.com/400x400/d8a4c7/000&text=Handmade Granite Cheese",
+      "stock": 40,
+      "productName": "Handmade Granite Cheese",
+      "price": 95,
+      "productDescription": "Aut fuga fugiat qui distinctio nihil qui eum voluptate. Et nostrum aut ut ducimus praesentium eum odio voluptatem. Eos nemo sunt iste. Iste cupiditate soluta amet quod ut quae iure velit. Veritatis occaecati eos magni ut. Quibusdam eos reprehenderit illo voluptatem.",
+      "favorite": "1"
+    },
+    {
+      "id": "cf5f9cee-b1f7-4797-96b1-347a85f12bf4",
+      "image_url": "https://dummyimage.com/400x400/531d3c/000&text=Handcrafted Fresh Salad",
+      "stock": 6,
+      "productName": "Handcrafted Fresh Salad",
+      "price": 19,
+      "productDescription": "Placeat consequatur dolor harum ullam nesciunt aperiam nulla qui. Id iste non. Non aliquid molestiae minima in sit qui. Sapiente aut molestiae voluptas voluptatibus. Excepturi incidunt fugiat pariatur quas laboriosam blanditiis fugit cupiditate tempore.",
+      "favorite": 0
+    },
+    {
+      "id": "4bf36350-05be-40f7-a5c2-f72554aa99ba",
+      "image_url": "https://dummyimage.com/400x400/415922/000&text=Licensed Concrete Gloves",
+      "stock": 37,
+      "productName": "Licensed Concrete Gloves",
+      "price": 68,
+      "productDescription": "Magnam rerum dolorem similique architecto placeat ullam quidem. Reprehenderit aut quasi totam tempora et iste dolorem et nesciunt. Quis ut voluptatem. Quas ipsum et.",
+      "favorite": 0
+    },
+    {
+      "id": "a203b76b-2ed7-4a5c-aa2a-b02d94027edd",
+      "image_url": "https://dummyimage.com/400x400/f613cf/000&text=Fantastic Frozen Shoes",
+      "stock": 23,
+      "productName": "Fantastic Frozen Shoes",
+      "price": 22,
+      "productDescription": "Minima quia officiis ut velit eum vel rerum voluptatem. Qui non quo esse temporibus voluptas. Quod itaque id.",
+      "favorite": 0
+    },
+    {
+      "id": "8b2d3819-36e7-494f-98e0-6cfb1d94190e",
+      "image_url": "https://dummyimage.com/400x400/7ba9c2/000&text=Gorgeous Metal Tuna",
+      "stock": 20,
+      "productName": "Gorgeous Metal Tuna",
+      "price": 73,
+      "productDescription": "Animi voluptatem nihil. Voluptatem vero adipisci laudantium aut harum. Et nihil facere nostrum.",
+      "favorite": 0
+    },
+    {
+      "id": "30626b41-b9be-4f29-8e38-355ab84877e9",
+      "image_url": "https://dummyimage.com/400x400/9c53f2/000&text=Awesome Plastic Pants",
+      "stock": 42,
+      "productName": "Awesome Plastic Pants",
+      "price": 69,
+      "productDescription": "Accusantium aliquam vero aut sapiente inventore itaque laboriosam. Id vel et et cumque expedita qui adipisci laborum aut. Dolor aut qui sed perferendis ut id. Rem asperiores rem distinctio atque sunt earum ipsam. Quibusdam excepturi vel sunt nesciunt dolorum et occaecati. Assumenda atque distinctio provident saepe nisi tempora recusandae eligendi eos.",
       "favorite": 0
     }
   ]
